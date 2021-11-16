@@ -68,5 +68,3 @@ while true; do
     }
     k=$((k % 2 + 1))
 done
-echo "Created by Donte Heath"
-echo "Contact: DonteHeath21@gmail.com"
